@@ -26,7 +26,7 @@ To build a robust engineering foundation, I have completed and am currently taki
 * **Systems & Signals:** Mathematical modeling and signal processing foundations through **Linear System Analysis**.
 * **Linear Algebra:** Focused on **QR decompositions** and foundations of **Machine Learning (ML)**.
 * **Numerical Analysis:** Mathematical modeling and error analysis utilizing **MATLAB**.
-* **Related Coursework:** Probability Theory, Differential Equations, Mathematics I & II.
+* **Related Coursework:** Probability Theory, Differential Equations, Calculus I & II.
 
 **3. Natural Sciences & General Education**
 * **Sciences:** General Physics I & II, Chemistry I.

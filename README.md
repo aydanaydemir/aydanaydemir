@@ -19,7 +19,7 @@ To build a robust engineering foundation, I have completed and am currently taki
 * **Logic Circuits:** Circuit design and simulation utilizing **Logisim**.
 * **Electrical Circuits I & II:** Advanced circuit analysis and simulation using **LTspice**.
 * **Electrical Measurement Laboratory:** Hands-on hardware experience with **oscilloscopes, multimeters, and breadboard prototyping** for ICs and logic circuits.
-* **Related Coursework:** Electronic Circuits, Electrotechnics, Introduction to EE Engineering, Internship I.
+* **Related Coursework:** Electronic Circuits, Electrotechnics, Introduction to EE Engineering.
 
 **2. Computation, Mathematics & Telecommunication Foundations**
 * **Algorithms and Programming:** Software development and problem-solving using **Python**.
